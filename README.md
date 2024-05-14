@@ -16,7 +16,7 @@ My journey has seen me involved in a diverse array of projects, ranging from web
 
 - [Project 1](https://zamoviez.000webhostapp.com): Crafted a web-based charity management application, skillfully engineered with React and Node.js.
 - [EDUHUB](https://eduhub.kesug.com/?i=1): is an innovative platform designed to enhance educational experiences by connecting students, educators, and resources in one centralized hub. Our mission is to bridge the gap between quality education and accessibility, ensuring that learners of all ages and backgrounds can achieve their academic goals.
-- [Project 3](https:Chilengwe-Christopher.github.io): Designed an automated deployment pipeline using Jenkins and Docker for seamless development workflows.
+- [Portfolio](https:Chilengwe-Christopher.github.io): Designed an automated deployment pipeline using Jenkins and Docker for seamless development workflows.
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/christopher-chilengwe): For professional networking and conversations.
