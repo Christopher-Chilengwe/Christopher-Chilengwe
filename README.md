@@ -14,7 +14,7 @@ I'm Christopher Chilengwe, an enthusiastic software engineer deeply immersed in 
 ## My Endeavors
 My journey has seen me involved in a diverse array of projects, ranging from web applications to mobile apps and automation scripts. Here are some noteworthy highlights:
 
-- [Project 1](https://zamoviez.000webhostapp.com): Crafted a web-based charity management application, skillfully engineered with React and Node.js.
+- [ZMovies](https://zamoviez.000webhostapp.com): Crafted a web-based charity management application, skillfully engineered with React and Node.js.
 - [EDUHUB](https://eduhub.kesug.com/?i=1): is an innovative platform designed to enhance educational experiences by connecting students, educators, and resources in one centralized hub. Our mission is to bridge the gap between quality education and accessibility, ensuring that learners of all ages and backgrounds can achieve their academic goals.
 - [Portfolio](https:Chilengwe-Christopher.github.io): Designed an automated deployment pipeline using Jenkins and Docker for seamless development workflows.
 
