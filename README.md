@@ -21,7 +21,7 @@ My journey has seen me involved in a diverse array of projects, ranging from web
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/christopher-chilengwe): For professional networking and conversations.
 - [Personal Website](https://christopher-chilengwe.github.io/): Explore more about my work and interests.
-- Email: chilengwechristopher@gmail.com
+- [Click here to Email me](chilengwechristopher@gmail.com)
 
 Please don't hesitate to reach out if you're interested in collaborating, discussing the latest in technology, or simply having a friendly conversation. I'm always thrilled to connect with fellow developers and tech enthusiasts!
 
